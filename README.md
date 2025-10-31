@@ -22,6 +22,7 @@ I love building **full-stack applications, mobile apps, and interactive dashboar
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seymenakbulut44&layout=compact&theme=radical)
 
+![GitHub Grade Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=seymenakbulut44)
 
 ---
 
@@ -43,7 +44,6 @@ I love building **full-stack applications, mobile apps, and interactive dashboar
 - [GitHub Repo](https://github.com/seymenakbulut44/Depmo-Earthquake-Mobile-Application)
 
 ---
-
 
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
