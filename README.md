@@ -22,26 +22,28 @@ I love building **full-stack applications, mobile apps, and interactive dashboar
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seymenakbulut44&layout=compact&theme=radical)
 
+
 ---
 
 ## 💼 Featured Projects
 
-### 1️⃣ **Smart Health Tracker**
-- **Description:** A full-stack web app to track personal health metrics and provide AI-based recommendations.
-- **Tech Stack:** ASP.NET Core, C#, ML.NET, React, Chart.js
-- [GitHub Repo](https://github.com/seymenakbulut44/smart-health-tracker)
+### 1️⃣ **Expense Tracker**
+- **Description:** Kişisel gelir ve giderlerini takip edebileceğiniz modern bir web uygulaması. Gelir-gider grafikleri ve kategori bazlı analizler içerir.  
+- **Tech Stack:** ASP.NET Core MVC, EF Core, Chart.js, SQL Server  
+- [GitHub Repo](https://github.com/seymenakbulut44/ExpenseTracker)
 
-### 2️⃣ **Finance & Investment Dashboard**
-- **Description:** Track expenses, budgets, and investment portfolios with analytics and visualization.
-- **Tech Stack:** ASP.NET Core, C#, React, ML.NET, SQL Server
-- [GitHub Repo](https://github.com/seymenakbulut44/finance-dashboard)
+### 2️⃣ **.NET Core Portfolio Site**
+- **Description:** Kendi portfolyo siten, projelerini sergileyebileceğin ve özgeçmiş bilgilerini paylaşabileceğin modern bir web platformu.  
+- **Tech Stack:** ASP.NET Core MVC, HTML, CSS, JavaScript  
+- [GitHub Repo](https://github.com/seymenakbulut44/.netcore-project)
 
-### 3️⃣ **Flutter Mobile App Portfolio**
-- **Description:** Mobile apps built with Flutter for cross-platform Android & iOS.
-- **Tech Stack:** Flutter, Dart
-- [GitHub Repo](https://github.com/seymenakbulut44/flutter-portfolio)
+### 3️⃣ **Depmo – Earthquake Mobile Application**
+- **Description:** Deprem uyarı ve bilgilendirme mobil uygulaması. Kullanıcılar yakınlarındaki deprem risklerini öğrenebilir ve bildirimler alabilir.  
+- **Tech Stack:** Flutter, Dart, REST API, Firebase  
+- [GitHub Repo](https://github.com/seymenakbulut44/Depmo-Earthquake-Mobile-Application)
 
 ---
+
 
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
