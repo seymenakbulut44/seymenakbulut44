@@ -22,8 +22,6 @@ I love building **full-stack applications, mobile apps, and interactive dashboar
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seymenakbulut44&layout=compact&theme=radical)
 
-![Seymenakbulut44's Streak](https://github-readme-streak-stats.herokuapp.com/?user=seymenakbulut44&theme=radical)
-
 ---
 
 ## 💼 Featured Projects
